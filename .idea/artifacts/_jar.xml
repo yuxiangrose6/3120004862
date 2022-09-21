@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="仓库:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="仓库.jar">
+      <element id="module-output" name="仓库" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../hanlp/hanlp-1.8.3-release/hanlp-1.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../hanlp/hanlp-1.8.3-release/hanlp-1.8.3-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
